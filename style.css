@@ -1,0 +1,123 @@
+.logo img{
+    width: 250px;
+}
+
+header {
+    width: 100%;
+    height: 60px;
+    background-color: black;
+}
+
+header ul{
+    list-style-type: none;
+    line-height: 60px;
+}
+
+header ul li{
+    float: left;
+    padding-right: 60px;
+    padding-left: 60px;
+    color: white;
+}
+main{
+    clear: left;
+}
+
+.left{
+    float:left;
+    width: 70%;
+    margin-right: 50px;
+
+}
+
+.left h1{
+    border-bottom: 3px solid black;
+    border-left: 5px solid black;
+}
+
+form{ margin: 0 auto;
+    background-color: #fbfbfb;
+    border: 3px #ebebeb solid;
+    margin-bottom: 50px;
+}
+
+form div{
+    padding: 15px;
+}
+
+.text,textarea,{
+    border:1px solid #dfdfdf;
+    padding: 5px;
+    color: #999;
+    background: #fff;
+}
+
+.submit{
+    border: 1px solid #bfbfbf;
+    padding: 4px 10px;
+    color: white;
+    background-color: #696969;
+    border-radius: 5px;
+    border-bottom: solid 2px gray;
+}
+
+form h3{
+    border-left: 5px solid red;
+    padding: 5px;
+    margin-left: 20px;
+    
+}
+
+
+.sideber{
+    float:left;
+    width: 20%;
+    margin-left: 50px;
+}
+
+.sideber h2{
+    border-bottom: dotted;
+    margin-top: 30px;
+}
+
+.sideber ul{
+    list-style-type: none;
+}
+
+.sideber ul li{
+    padding-bottom: 10px;
+}
+
+.nakami{ margin: 0 auto;
+    background-color: #fbfbfb;
+    border: 3px #ebebeb solid;
+    margin-bottom: 20px;
+    margin-right: 20px;
+    padding-left: 30px;
+}
+.nakami h3{
+    border-bottom: 1px solid black;
+    margin-right: 20PX;
+}
+
+.contents{
+    margin: 5px;
+    padding-bottom: 5px;
+}
+
+.handlename{
+    font-size: 12px;
+    padding-top: 5px;
+}
+
+footer{
+    clear: left;
+    margin-top: 60px;
+    text-align: center;
+    width: 100%;
+    height: 60px;
+    background-color: black;
+    color: white;
+    line-height: 60px;
+}
+
